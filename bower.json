@@ -1,7 +1,7 @@
 {
-  "name": "vcard-project-item",
+  "name": "vcard-projects",
   "version": "0.0.1",
-  "description": "Footer",
+  "description": "Projects",
   "private": true,
   "authors": [
     "YCLIN"
@@ -11,10 +11,10 @@
     "polymer",
     "vcard"
   ],
-  "main": "vcard-project-item.html",
+  "main": "vcard-projects.html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vcard/vcard-project-item.git"
+    "url": "git://github.com/vcard/vcard-projects.git"
   },
   "license": "MIT",
   "ignore": [],
