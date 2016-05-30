@@ -1,0 +1,30 @@
+{
+  "name": "vcard-project-item",
+  "version": "0.0.1",
+  "description": "Footer",
+  "private": true,
+  "authors": [
+    "YCLIN"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "vcard"
+  ],
+  "main": "vcard-project-item.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vcard/vcard-project-item.git"
+  },
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {
+    "promise-polyfill": "polymerlabs/promise-polyfill#^1.0.0",
+    "polymer": "Polymer/polymer#^1.0.0",
+    "vcard-project-item": "git://github.com/vcard/vcard-project-item.git#0.0.1"
+  },
+  "devDependencies": {
+    "web-component-tester": "polymer/web-component-tester#^3.4.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}
