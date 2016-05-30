@@ -1,4 +1,4 @@
-## Vcard project item
+## Vcard projects
 To try demo you need in your application:
   -  jquery
   -  bootstrap
@@ -7,7 +7,7 @@ To try demo you need in your application:
   -  polymer
 
 Put in your navigator:
-> http://localhost:8080/bower_components/vcard-project-item/demo/index.html
+> http://localhost:8080/bower_components/vcard-projects/demo/index.html
 
 ## Firing up a server using Python
 
