@@ -1,6 +1,6 @@
 {
   "name": "vcard-projects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Projects",
   "private": true,
   "authors": [
@@ -21,7 +21,7 @@
   "dependencies": {
     "promise-polyfill": "polymerlabs/promise-polyfill#^1.0.0",
     "polymer": "Polymer/polymer#^1.0.0",
-    "vcard-project-item": "git://github.com/vcard/vcard-project-item.git#0.0.1"
+    "vcard-project-item": "git://github.com/vcard/vcard-project-item.git#0.0.2"
   },
   "devDependencies": {
     "web-component-tester": "polymer/web-component-tester#^3.4.0",
