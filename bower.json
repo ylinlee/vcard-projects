@@ -1,6 +1,6 @@
 {
   "name": "vcard-projects",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Projects",
   "private": true,
   "authors": [
@@ -19,7 +19,7 @@
   "license": "MIT",
   "ignore": [],
   "dependencies": {
-        "polymer": "Polymer/polymer#1.0.0",
-    "vcard-project-item": "https://github.com/ylinlee/vcard-project-item.git#0.0.2"
+    "polymer": "Polymer/polymer#1.0.0",
+    "vcard-project-item": "https://github.com/ylinlee/vcard-project-item.git#0.0.3"
   }
 }
