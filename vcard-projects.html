@@ -20,6 +20,7 @@
             margin-bottom: 40px;
             text-align: left;
         }
+        
         h2 {
             margin: 0 0 45px;
             font-size: 20px;
@@ -39,6 +40,11 @@
             content: '';
             left: 0;
         }
+        
+        .section-background {
+            background: #fff;
+            padding: 80px 60px;
+        }
         </style>
         <!-- Así mostramos las variables definidas {{}} -->
         <!-- Projects -->
@@ -47,10 +53,10 @@
             <h2>{{headerTitle}}</h2>
             <template is="dom-repeat" items="{{listProjects}}">
                 <div class="project-box" media-query-1200$="{{mediaQuery1200}}">
-                <vcard-project-item match-height="{{matchHeight}}-item" project-item="{{item}}"></vcard-project-item>
+                    <vcard-project-item match-height="{{matchHeight}}-item" project-item="{{item}}"></vcard-project-item>
             </template>
-        </div>
-        <!-- End Projects -->
+            </div>
+            <!-- End Projects -->
     </template>
 </dom-module>
 <!-- Registers custom element -->
